@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Torn Disposal Overlay
 // @namespace    https://github.com/MK07/Torn-Disposal-Overlay
-// @version      1.0.0
+// @version      1.0.1
 // @description  Displays disposal recommendations overlay on Torn's disposal page
 // @author       MK07
 // @homepage     https://github.com/MK07/Torn-Disposal-Overlay
@@ -11,6 +11,8 @@
 // @icon         https://raw.githubusercontent.com/MK07/Torn-Disposal-Overlay/main/Disposal%20Recommendation.png
 // @grant        none
 // @license      MIT
+// @updateURL    https://raw.githubusercontent.com/MK07/Torn-Disposal-Overlay/main/Torn%20Disposal%20Overlay.js
+// @downloadURL  https://raw.githubusercontent.com/MK07/Torn-Disposal-Overlay/main/Torn%20Disposal%20Overlay.js
 // ==/UserScript==
 
 (function() {
