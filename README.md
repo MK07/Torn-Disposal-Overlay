@@ -5,7 +5,7 @@ A Tampermonkey userscript that displays disposal recommendations overlay on Torn
 ## Installation
 
 1. Install [Violentmonkey](https://violentmonkey.github.io) browser extension
-2. Click [here](https://raw.githubusercontent.com/MK07/Torn-Disposal-Overlay/main/torn-disposal-overlay.user.js) to install the script
+2. Click [here](https://raw.githubusercontent.com/MK07/Torn-Disposal-Overlay/main/Torn%20Disposal%20Overlay.user.js) to install the script
 3. Navigate to Torn's crimes page and go to disposal section
 
 ## Features
