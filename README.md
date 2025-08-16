@@ -1,6 +1,6 @@
 # Torn Disposal Overlay
 
-A Tampermonkey userscript that displays disposal recommendations overlay on Torn City's disposal page.
+A userscript that displays disposal recommendations overlay for Torn.
 
 ## Installation
 
@@ -11,9 +11,8 @@ A Tampermonkey userscript that displays disposal recommendations overlay on Torn
 ## Features
 
 - Only shows on disposal page
-- Non-intrusive overlay positioning
-- Automatic show/hide on page navigation
-- Cached image for fast loading
+- overlay positioning to the sides
+- Cached image on first load for faster subsequent loading
 
 ## Support
 
