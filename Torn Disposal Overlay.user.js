@@ -11,8 +11,8 @@
 // @icon         https://raw.githubusercontent.com/MK07/Torn-Disposal-Overlay/main/Disposal%20Recommendation.png
 // @grant        none
 // @license      MIT
-// @updateURL    https://raw.githubusercontent.com/MK07/Torn-Disposal-Overlay/main/Torn%20Disposal%20Overlay.js
-// @downloadURL  https://raw.githubusercontent.com/MK07/Torn-Disposal-Overlay/main/Torn%20Disposal%20Overlay.js
+// @updateURL    https://raw.githubusercontent.com/MK07/Torn-Disposal-Overlay/main/Torn%20Disposal%20Overlay.user.js
+// @downloadURL  https://raw.githubusercontent.com/MK07/Torn-Disposal-Overlay/main/Torn%20Disposal%20Overlay.user.js
 // ==/UserScript==
 
 (function() {
